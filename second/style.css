@@ -1,0 +1,17 @@
+body  {
+    padding: 0;
+    margin: 0;
+    background-color: #121317;
+}   
+button {  
+  background-color: #18f98f;
+  border: none;
+  box-sizing: border-box;
+  position: relative;
+  transform: translate(70%, 1100%);
+  top: 30%;
+  Left: 70%;
+  padding: 10px 30px;
+  font-size: 10px;
+  font-weight: bold;
+}
